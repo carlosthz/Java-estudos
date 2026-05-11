@@ -1,23 +1,31 @@
-# ☕ Java Studies
+# Java Estudos
 
-Repositório com projetos desenvolvidos durante o aprendizado de Java, com foco em Programação Orientada a Objetos (POO).
+Repositório criado para documentar minha evolução em Java e Programação Orientada a Objetos (POO) através de exercícios práticos e projetos de estudo.
 
-## 📚 Projetos
+## Conceitos estudados
 
-| Projeto | Conceito |
-|---|---|
-| `GettersSetters` | Encapsulamento — acesso controlado a atributos via métodos get e set |
-| `ModificadoresdeAcesso` | Visibilidade de classes, atributos e métodos (`public`, `private`, `protected`) |
-| `Herança` | Reutilização de código entre classes com `extends` |
-| `HerançaReforço` | Aprofundamento de herança, sobrescrita de métodos e `super` |
-| `Abstract` | Classes e métodos abstratos — contratos entre classes |
-| `ArrayList` | Coleções dinâmicas com `ArrayList` e operações sobre listas |
+- Programação Orientada a Objetos
+- Encapsulamento
+- Herança
+- Classes Abstratas
+- Modificadores de Acesso
+- ArrayList
+- Tratamento de Exceções
+- Estruturas Condicionais e de Repetição
+- Validação de Entradas
+- Organização de Classes
 
-## 🛠️ Tecnologias
+## Projetos e Exercícios
 
-- Java
-- Eclipse IDE
+### Simulador Bancário
+Projeto desenvolvido para praticar encapsulamento, herança, modificadores de acesso e estruturação de aplicações orientadas a objetos.
 
-## 📖 Sobre
+### Exercícios com ArrayList
+Manipulação de listas, validação de dados e organização lógica de informações.
 
-Projetos criados como parte de uma jornada de aprendizado em Java, cobrindo os fundamentos de POO.
+### Estudos de Modificadores de Acesso
+Aplicação prática de `private`, `protected` e `public` em estruturas orientadas a objetos.
+
+---
+
+📚 Repositório em constante evolução com novos estudos e projetos em Java.
