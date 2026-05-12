@@ -1,31 +1,60 @@
-# Java Estudos
+# ☕ Java Estudos
 
-Repositório criado para documentar minha evolução em Java e Programação Orientada a Objetos (POO) através de exercícios práticos e projetos de estudo.
-
-## Conceitos estudados
-
-- Programação Orientada a Objetos
-- Encapsulamento
-- Herança
-- Classes Abstratas
-- Modificadores de Acesso
-- ArrayList
-- Tratamento de Exceções
-- Estruturas Condicionais e de Repetição
-- Validação de Entradas
-- Organização de Classes
-
-## Projetos e Exercícios
-
-### Simulador Bancário
-Projeto desenvolvido para praticar encapsulamento, herança, modificadores de acesso e estruturação de aplicações orientadas a objetos.
-
-### Exercícios com ArrayList
-Manipulação de listas, validação de dados e organização lógica de informações.
-
-### Estudos de Modificadores de Acesso
-Aplicação prática de `private`, `protected` e `public` em estruturas orientadas a objetos.
+Repositório dedicado aos meus estudos em Java, com foco em lógica de programação, Programação Orientada a Objetos (POO), organização de código e evolução contínua de conceitos fundamentais da linguagem.
 
 ---
 
-📚 Repositório em constante evolução com novos estudos e projetos em Java.
+## Objetivo
+
+Este repositório foi criado para documentar minha evolução prática em Java através de exercícios, testes e pequenos projetos voltados ao aprendizado progressivo de desenvolvimento back-end.
+
+---
+
+## Conteúdos Estudados
+
+- Encapsulamento
+- Modificadores de acesso
+- Getters e Setters
+- Herança
+- Classes abstratas
+- Interfaces
+- ArrayList
+- Estruturas condicionais
+- Estruturas de repetição
+- Organização de classes
+- Validação de entradas
+
+---
+
+## Estrutura do Repositório
+
+    Java-estudos/
+    ├── Abstract/
+    ├── Array&List/
+    ├── AulaSíncrona/
+    ├── GettersSetters/
+    ├── Herança/
+    ├── HerançaReforço/
+    └── ModificadoresAcesso/
+
+---
+
+## Objetivos de Aprendizado
+
+- Consolidar fundamentos de Java
+- Evoluir conhecimentos em Programação Orientada a Objetos
+- Melhorar organização e estrutura de código
+- Praticar resolução de problemas
+- Desenvolver raciocínio lógico e arquitetural
+
+---
+
+## Observações
+
+Os códigos deste repositório representam minha trajetória de aprendizado e evolução prática em Java, sendo constantemente atualizados conforme avanço nos estudos.
+
+---
+
+## Autor
+
+Carlos Thiago Santos de Souza
